@@ -1,0 +1,60 @@
+{
+  "uid" : "ea87655d3c175e53",
+  "name" : "Get List of Recent Posts and Assert Length",
+  "fullName" : "Blog.Get List of Recent Posts and Assert Length",
+  "historyId" : "7af0d4e6b57b4672f38b0eb19d8697c0",
+  "time" : {
+    "start" : 1646003878681,
+    "stop" : 1646003883933,
+    "duration" : 5252
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-0"
+  }, {
+    "name" : "suite",
+    "value" : "Blog"
+  }, {
+    "name" : "testClass",
+    "value" : "Blog"
+  }, {
+    "name" : "testMethod",
+    "value" : "Get List of Recent Posts and Assert Length"
+  }, {
+    "name" : "package",
+    "value" : "Blog"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-97.0.1"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ea87655d3c175e53.json",
+  "parameterValues" : [ "firefox-97.0.1" ]
+}

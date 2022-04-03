@@ -1,0 +1,60 @@
+{
+  "uid" : "e5fb41eab784fd55",
+  "name" : "Get List of Recent Posts and Assert Length",
+  "fullName" : "Blog.Get List of Recent Posts and Assert Length",
+  "historyId" : "9d84b9967beca6b75decafbf365e3865",
+  "time" : {
+    "start" : 1646004457793,
+    "stop" : 1646004463724,
+    "duration" : 5931
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Blog"
+  }, {
+    "name" : "testClass",
+    "value" : "Blog"
+  }, {
+    "name" : "testMethod",
+    "value" : "Get List of Recent Posts and Assert Length"
+  }, {
+    "name" : "package",
+    "value" : "Blog"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-98.0.4758.102"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e5fb41eab784fd55.json",
+  "parameterValues" : [ "chrome-98.0.4758.102" ]
+}

@@ -1,0 +1,1952 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "2-4",
+    "children" : [ {
+      "name" : "Should upload a file",
+      "uid" : "26b0e71e9443038a",
+      "parentUid" : "de3e0b41a838510fb6af443b256e1ded",
+      "status" : "broken",
+      "time" : {
+        "start" : 1646005411220,
+        "stop" : 1646005412207,
+        "duration" : 987
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Safari-15.3" ]
+    }, {
+      "name" : "Upload on hidden input",
+      "uid" : "61a0941b85383812",
+      "parentUid" : "de3e0b41a838510fb6af443b256e1ded",
+      "status" : "broken",
+      "time" : {
+        "start" : 1646005412207,
+        "stop" : 1646005416580,
+        "duration" : 4373
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Safari-15.3" ]
+    } ],
+    "uid" : "de3e0b41a838510fb6af443b256e1ded"
+  }, {
+    "name" : "Should Open About page",
+    "uid" : "bb9d427ede7410cd",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1646006304488,
+      "stop" : 1646006304488,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "1-4",
+    "children" : [ {
+      "name" : "Upload on hidden input",
+      "uid" : "ead9794be249ac3f",
+      "parentUid" : "6398ef4b2805317600e1163fefb7476a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004484216,
+        "stop" : 1646004495182,
+        "duration" : 10966
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-97.0.1" ]
+    }, {
+      "name" : "Should upload a file",
+      "uid" : "373388125efddbd5",
+      "parentUid" : "6398ef4b2805317600e1163fefb7476a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004483103,
+        "stop" : 1646004484216,
+        "duration" : 1113
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-97.0.1" ]
+    }, {
+      "name" : "Upload on hidden input",
+      "uid" : "1558e2f0fee91450",
+      "parentUid" : "6398ef4b2805317600e1163fefb7476a",
+      "status" : "failed",
+      "time" : {
+        "start" : 1646003903654,
+        "stop" : 1646003917649,
+        "duration" : 13995
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-97.0.1" ]
+    }, {
+      "name" : "Should upload a file",
+      "uid" : "541d4b5f9c0941d5",
+      "parentUid" : "6398ef4b2805317600e1163fefb7476a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646005371857,
+        "stop" : 1646005372994,
+        "duration" : 1137
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-97.0.1" ]
+    }, {
+      "name" : "Upload on hidden input",
+      "uid" : "72efb649e211f260",
+      "parentUid" : "6398ef4b2805317600e1163fefb7476a",
+      "status" : "failed",
+      "time" : {
+        "start" : 1646005372994,
+        "stop" : 1646005388799,
+        "duration" : 15805
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : true,
+      "parameters" : [ "firefox-97.0.1" ]
+    }, {
+      "name" : "Should upload a file",
+      "uid" : "1ee7c1095fcd7e9a",
+      "parentUid" : "6398ef4b2805317600e1163fefb7476a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646003902473,
+        "stop" : 1646003903654,
+        "duration" : 1181
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-97.0.1" ]
+    } ],
+    "uid" : "6398ef4b2805317600e1163fefb7476a"
+  }, {
+    "name" : "0-0",
+    "children" : [ {
+      "name" : "Should click by XPATH",
+      "uid" : "b3aa3db2230cc48c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646006497518,
+        "stop" : 1646006507244,
+        "duration" : 9726
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.80" ]
+    }, {
+      "name" : "Get List of Recent Posts and Assert Length",
+      "uid" : "800b54fe8770ff65",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646003877864,
+        "stop" : 1646003883507,
+        "duration" : 5643
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Get List of Recent Posts and Assert Length",
+      "uid" : "6837019975484aa6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004632419,
+        "stop" : 1646004636940,
+        "duration" : 4521
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Should click by XPATH",
+      "uid" : "aa8cb045e5e37bc7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646006310146,
+        "stop" : 1646006316393,
+        "duration" : 6247
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Should Assert not containing",
+      "uid" : "70e6b9191ca6b998",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646006490200,
+        "stop" : 1646006497516,
+        "duration" : 7316
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.80" ]
+    }, {
+      "name" : "Get List of Recent Posts and Assert Length",
+      "uid" : "3135458ae3534d02",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646005337005,
+        "stop" : 1646005342614,
+        "duration" : 5609
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 4,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Should Click Get Started",
+      "uid" : "835a01a20d54a088",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646006485288,
+        "stop" : 1646006490199,
+        "duration" : 4911
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.80" ]
+    }, {
+      "name" : "Should Assert not containing",
+      "uid" : "20b348810e26b949",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646006306858,
+        "stop" : 1646006310146,
+        "duration" : 3288
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Find element and assert text",
+      "uid" : "a1bde3144ab7e362",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646006316393,
+        "stop" : 1646006321979,
+        "duration" : 5586
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Get List of Recent Posts and Assert Length",
+      "uid" : "e5fb41eab784fd55",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004457793,
+        "stop" : 1646004463724,
+        "duration" : 5931
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Open URL and assert title",
+      "uid" : "85022bc276e3f501",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646006472307,
+        "stop" : 1646006485287,
+        "duration" : 12980
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.80" ]
+    }, {
+      "name" : "Open URL and assert title",
+      "uid" : "33a9f808c761984c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646006300402,
+        "stop" : 1646006304487,
+        "duration" : 4085
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Should Click Get Started",
+      "uid" : "f2398c9eeee77029",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646006304488,
+        "stop" : 1646006306857,
+        "duration" : 2369
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Get List of Recent Posts and Assert Length",
+      "uid" : "4af6ded04d021035",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004902596,
+        "stop" : 1646004908235,
+        "duration" : 5639
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Find element and assert text",
+      "uid" : "cee7a58ee7142700",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646006507248,
+        "stop" : 1646006512748,
+        "duration" : 5500
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.80" ]
+    } ],
+    "uid" : "516fe00eea05ad99e936fa729b55eff4"
+  }, {
+    "name" : "0-2",
+    "children" : [ {
+      "name" : "Should click by XPATH",
+      "uid" : "25a2252a4896e9c7",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004921454,
+        "stop" : 1646004927349,
+        "duration" : 5895
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Open URL and assert title",
+      "uid" : "63e5e2d3205cd96d",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004467635,
+        "stop" : 1646004470707,
+        "duration" : 3072
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Should Assert not containing",
+      "uid" : "1217e821a5d5f46a",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646003894357,
+        "stop" : 1646003900370,
+        "duration" : 6013
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Should Click Get Started",
+      "uid" : "92be52a88fdda2cf",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004648674,
+        "stop" : 1646004651569,
+        "duration" : 2895
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Should Assert not containing",
+      "uid" : "3de314c42338b828",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004473267,
+        "stop" : 1646004479339,
+        "duration" : 6072
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Should Click Get Started",
+      "uid" : "53a6b14de6b45772",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004915312,
+        "stop" : 1646004917432,
+        "duration" : 2120
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Find element and assert text",
+      "uid" : "c18707911c87cd15",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646005381344,
+        "stop" : 1646005391450,
+        "duration" : 10106
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 4,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Should Click Get Started",
+      "uid" : "6c5c7f02145a1dae",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004470707,
+        "stop" : 1646004473266,
+        "duration" : 2559
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Should click by XPATH",
+      "uid" : "eec30e9edc55c5d1",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646003900371,
+        "stop" : 1646003911445,
+        "duration" : 11074
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Should Click Get Started",
+      "uid" : "a08873f5094e5074",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646005350493,
+        "stop" : 1646005355781,
+        "duration" : 5288
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 4,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Should click by XPATH",
+      "uid" : "34d76a3195b83197",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004479339,
+        "stop" : 1646004486121,
+        "duration" : 6782
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Find element and assert text",
+      "uid" : "63e77c2366d4b1b4",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004927350,
+        "stop" : 1646004932190,
+        "duration" : 4840
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Should Assert not containing",
+      "uid" : "6a373f9b1da2fdba",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004651571,
+        "stop" : 1646004656243,
+        "duration" : 4672
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Find element and assert text",
+      "uid" : "1907b92686e5ff2b",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004662666,
+        "stop" : 1646004666931,
+        "duration" : 4265
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Open URL and assert title",
+      "uid" : "f93dbff71c695132",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004641982,
+        "stop" : 1646004648673,
+        "duration" : 6691
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Open URL and assert title",
+      "uid" : "e480289a08bdf204",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646005346548,
+        "stop" : 1646005350493,
+        "duration" : 3945
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 4,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Should click by XPATH",
+      "uid" : "3e3191e0f15ec744",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004656244,
+        "stop" : 1646004662666,
+        "duration" : 6422
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Should Assert not containing",
+      "uid" : "52d01d2c7c11e82e",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004917432,
+        "stop" : 1646004921454,
+        "duration" : 4022
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Open URL and assert title",
+      "uid" : "c353c07120e5d739",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646003887273,
+        "stop" : 1646003890883,
+        "duration" : 3610
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Find element and assert text",
+      "uid" : "3970d3d5b70c8650",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004486122,
+        "stop" : 1646004493249,
+        "duration" : 7127
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Should Assert not containing",
+      "uid" : "dcb7c6bfcef450b3",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646005355782,
+        "stop" : 1646005364297,
+        "duration" : 8515
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 4,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Should Click Get Started",
+      "uid" : "4853cdaaaf0612e6",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646003890883,
+        "stop" : 1646003894356,
+        "duration" : 3473
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Find element and assert text",
+      "uid" : "579cb2ebaa333053",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646003911445,
+        "stop" : 1646003919395,
+        "duration" : 7950
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Should click by XPATH",
+      "uid" : "27307215600c1297",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646005364297,
+        "stop" : 1646005381344,
+        "duration" : 17047
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 4,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Open URL and assert title",
+      "uid" : "5610f93efedb64c6",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004912271,
+        "stop" : 1646004915311,
+        "duration" : 3040
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    } ],
+    "uid" : "880a094af3dffab161e2023284569d6f"
+  }, {
+    "name" : "0-1",
+    "children" : [ {
+      "name" : "Fill out fields, submit and assert",
+      "uid" : "28920eaeee0aed08",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004457762,
+        "stop" : 1646004468189,
+        "duration" : 10427
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Fill out fields, submit and assert",
+      "uid" : "861f9fc3b7dfa8c1",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004902706,
+        "stop" : 1646004910329,
+        "duration" : 7623
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Fill out fields, submit and assert",
+      "uid" : "7e326593ca521c36",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646003877669,
+        "stop" : 1646003890621,
+        "duration" : 12952
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Fill out fields, submit and assert",
+      "uid" : "2a8e6ddb60c432e4",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646005337482,
+        "stop" : 1646005346973,
+        "duration" : 9491
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 4,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Fill out fields, submit and assert",
+      "uid" : "858b92437acd96f",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004632419,
+        "stop" : 1646004641091,
+        "duration" : 8672
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    } ],
+    "uid" : "27fa874cadc1574e37a07abb440963bd"
+  }, {
+    "name" : "1-1",
+    "children" : [ {
+      "name" : "Fill out fields, submit and assert",
+      "uid" : "a3446eb9d8303c0",
+      "parentUid" : "7f515bb52d6d225c0a299e7d9c0e2786",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004458770,
+        "stop" : 1646004467868,
+        "duration" : 9098
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-97.0.1" ]
+    }, {
+      "name" : "Fill out fields, submit and assert",
+      "uid" : "db7d65ac32467f8d",
+      "parentUid" : "7f515bb52d6d225c0a299e7d9c0e2786",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646003878692,
+        "stop" : 1646003886918,
+        "duration" : 8226
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-97.0.1" ]
+    }, {
+      "name" : "Fill out fields, submit and assert",
+      "uid" : "894f52e1179b68cd",
+      "parentUid" : "7f515bb52d6d225c0a299e7d9c0e2786",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646005338258,
+        "stop" : 1646005349787,
+        "duration" : 11529
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-97.0.1" ]
+    } ],
+    "uid" : "7f515bb52d6d225c0a299e7d9c0e2786"
+  }, {
+    "name" : "1-2",
+    "children" : [ {
+      "name" : "Should click by XPATH",
+      "uid" : "c31c8b5d8bdfbb85",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646003899180,
+        "stop" : 1646003907398,
+        "duration" : 8218
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-97.0.1" ]
+    }, {
+      "name" : "Should Click Get Started",
+      "uid" : "fe960a59eb31b3c3",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646003890940,
+        "stop" : 1646003894076,
+        "duration" : 3136
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-97.0.1" ]
+    }, {
+      "name" : "Should Assert not containing",
+      "uid" : "65fee5eb30382e2e",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004472551,
+        "stop" : 1646004478356,
+        "duration" : 5805
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-97.0.1" ]
+    }, {
+      "name" : "Find element and assert text",
+      "uid" : "7b4daec71149ba31",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646003907398,
+        "stop" : 1646003917048,
+        "duration" : 9650
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-97.0.1" ]
+    }, {
+      "name" : "Should Click Get Started",
+      "uid" : "d22093dd3e20c3ff",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646005358083,
+        "stop" : 1646005363644,
+        "duration" : 5561
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-97.0.1" ]
+    }, {
+      "name" : "Should Assert not containing",
+      "uid" : "40feaabf6e7614e2",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646005363644,
+        "stop" : 1646005374292,
+        "duration" : 10648
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-97.0.1" ]
+    }, {
+      "name" : "Find element and assert text",
+      "uid" : "ed83cdb60a408ab4",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646005389366,
+        "stop" : 1646005395523,
+        "duration" : 6157
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-97.0.1" ]
+    }, {
+      "name" : "Should Click Get Started",
+      "uid" : "f6513cefc4be86f9",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004470311,
+        "stop" : 1646004472551,
+        "duration" : 2240
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-97.0.1" ]
+    }, {
+      "name" : "Should click by XPATH",
+      "uid" : "1ea367b8504f83e4",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646005374293,
+        "stop" : 1646005389365,
+        "duration" : 15072
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-97.0.1" ]
+    }, {
+      "name" : "Open URL and assert title",
+      "uid" : "ad2a5a79afc894ab",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646005352141,
+        "stop" : 1646005358083,
+        "duration" : 5942
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-97.0.1" ]
+    }, {
+      "name" : "Should Assert not containing",
+      "uid" : "232b97018f5b8a23",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646003894077,
+        "stop" : 1646003899180,
+        "duration" : 5103
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-97.0.1" ]
+    }, {
+      "name" : "Find element and assert text",
+      "uid" : "fc37174e3bb4c7d",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004484035,
+        "stop" : 1646004493609,
+        "duration" : 9574
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-97.0.1" ]
+    }, {
+      "name" : "Open URL and assert title",
+      "uid" : "9963baab74dd65a0",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004467685,
+        "stop" : 1646004470310,
+        "duration" : 2625
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-97.0.1" ]
+    }, {
+      "name" : "Open URL and assert title",
+      "uid" : "672743fd44c5366f",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646003887880,
+        "stop" : 1646003890939,
+        "duration" : 3059
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-97.0.1" ]
+    }, {
+      "name" : "Should click by XPATH",
+      "uid" : "c97b6f1616ac5580",
+      "parentUid" : "aaf9cc9bc103c872529dc4d1947b03c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004478357,
+        "stop" : 1646004484035,
+        "duration" : 5678
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-97.0.1" ]
+    } ],
+    "uid" : "aaf9cc9bc103c872529dc4d1947b03c1"
+  }, {
+    "name" : "0-4",
+    "children" : [ {
+      "name" : "Should upload a file",
+      "uid" : "e4f3e5d7ae761672",
+      "parentUid" : "24bc2dfa7c2fb5a7cdc8e85ad96a418d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004927452,
+        "stop" : 1646004928852,
+        "duration" : 1400
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Upload on hidden input",
+      "uid" : "5abf664e6c07facd",
+      "parentUid" : "24bc2dfa7c2fb5a7cdc8e85ad96a418d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646003908529,
+        "stop" : 1646003920680,
+        "duration" : 12151
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Upload on hidden input",
+      "uid" : "9a188f1e3df75abb",
+      "parentUid" : "24bc2dfa7c2fb5a7cdc8e85ad96a418d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004483914,
+        "stop" : 1646004495524,
+        "duration" : 11610
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Upload on hidden input",
+      "uid" : "33c5123dbffa910a",
+      "parentUid" : "24bc2dfa7c2fb5a7cdc8e85ad96a418d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004658575,
+        "stop" : 1646004666254,
+        "duration" : 7679
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Upload on hidden input",
+      "uid" : "6170de0978c214ec",
+      "parentUid" : "24bc2dfa7c2fb5a7cdc8e85ad96a418d",
+      "status" : "failed",
+      "time" : {
+        "start" : 1646005363019,
+        "stop" : 1646005380138,
+        "duration" : 17119
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 4,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Should upload a file",
+      "uid" : "7661083b6ebea657",
+      "parentUid" : "24bc2dfa7c2fb5a7cdc8e85ad96a418d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004657108,
+        "stop" : 1646004658575,
+        "duration" : 1467
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Should upload a file",
+      "uid" : "b01a938f696e62f5",
+      "parentUid" : "24bc2dfa7c2fb5a7cdc8e85ad96a418d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646003907219,
+        "stop" : 1646003908529,
+        "duration" : 1310
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Should upload a file",
+      "uid" : "cda9c7000e458290",
+      "parentUid" : "24bc2dfa7c2fb5a7cdc8e85ad96a418d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004482439,
+        "stop" : 1646004483913,
+        "duration" : 1474
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Upload on hidden input",
+      "uid" : "ae99fc973686caa3",
+      "parentUid" : "24bc2dfa7c2fb5a7cdc8e85ad96a418d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004928852,
+        "stop" : 1646004936460,
+        "duration" : 7608
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Should upload a file",
+      "uid" : "d0c834c873dbaffd",
+      "parentUid" : "24bc2dfa7c2fb5a7cdc8e85ad96a418d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646005361711,
+        "stop" : 1646005363019,
+        "duration" : 1308
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 4,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    } ],
+    "uid" : "24bc2dfa7c2fb5a7cdc8e85ad96a418d"
+  }, {
+    "name" : "Should Open About page",
+    "uid" : "c024667f938b849",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1646005350493,
+      "stop" : 1646005350493,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Should Open About page",
+    "uid" : "3fefee7b3e36040d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1646004470707,
+      "stop" : 1646004470707,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "2-0",
+    "children" : [ {
+      "name" : "Get List of Recent Posts and Assert Length",
+      "uid" : "f8d80044d826cb9",
+      "parentUid" : "7b1daf7a03b1e0269c064c8965966bc1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646005336737,
+        "stop" : 1646005342492,
+        "duration" : 5755
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Safari-15.3" ]
+    } ],
+    "uid" : "7b1daf7a03b1e0269c064c8965966bc1"
+  }, {
+    "name" : "Should Open About page",
+    "uid" : "e610f143bbfb54f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1646005358083,
+      "stop" : 1646005358083,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "2-2",
+    "children" : [ {
+      "name" : "Open URL and assert title",
+      "uid" : "16ee06cb990532a9",
+      "parentUid" : "3cc75805bedeec018ceb0738f9572761",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646005346304,
+        "stop" : 1646005350613,
+        "duration" : 4309
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Safari-15.3" ]
+    }, {
+      "name" : "Should Click Get Started",
+      "uid" : "a5ae4b4cbaddf544",
+      "parentUid" : "3cc75805bedeec018ceb0738f9572761",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646005350614,
+        "stop" : 1646005356274,
+        "duration" : 5660
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Safari-15.3" ]
+    }, {
+      "name" : "Should click by XPATH",
+      "uid" : "45f9f0c3f52edafe",
+      "parentUid" : "3cc75805bedeec018ceb0738f9572761",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646005360718,
+        "stop" : 1646005372405,
+        "duration" : 11687
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Safari-15.3" ]
+    }, {
+      "name" : "Should Assert not containing",
+      "uid" : "e15314828d5926ec",
+      "parentUid" : "3cc75805bedeec018ceb0738f9572761",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646005356274,
+        "stop" : 1646005360718,
+        "duration" : 4444
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Safari-15.3" ]
+    }, {
+      "name" : "Find element and assert text",
+      "uid" : "3c8fc927c5d5ab13",
+      "parentUid" : "3cc75805bedeec018ceb0738f9572761",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646005372405,
+        "stop" : 1646005384284,
+        "duration" : 11879
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Safari-15.3" ]
+    } ],
+    "uid" : "3cc75805bedeec018ceb0738f9572761"
+  }, {
+    "name" : "Should Open About page",
+    "uid" : "320e8206e8650290",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1646004470311,
+      "stop" : 1646004470311,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "1-3",
+    "children" : [ {
+      "name" : "Should get text of all menu items",
+      "uid" : "9a470ccf2213640a",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646003892358,
+        "stop" : 1646003896189,
+        "duration" : 3831
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-97.0.1" ]
+    }, {
+      "name" : "Should get text of all menu items",
+      "uid" : "86a7cece225d33c",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646005356816,
+        "stop" : 1646005364336,
+        "duration" : 7520
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-97.0.1" ]
+    }, {
+      "name" : "Should get text of all menu items",
+      "uid" : "7a4ece9d5efc5c3d",
+      "parentUid" : "19820e2d6fe04f5bf84547313e2a1e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004472908,
+        "stop" : 1646004476713,
+        "duration" : 3805
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-97.0.1" ]
+    } ],
+    "uid" : "19820e2d6fe04f5bf84547313e2a1e84"
+  }, {
+    "name" : "0-3",
+    "children" : [ {
+      "name" : "Should get text of all menu items",
+      "uid" : "3bdd85c2f2464687",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004647274,
+        "stop" : 1646004651878,
+        "duration" : 4604
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Should get text of all menu items",
+      "uid" : "ebe86944a0d277b1",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646003897263,
+        "stop" : 1646003901019,
+        "duration" : 3756
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Should get text of all menu items",
+      "uid" : "688b13688e220809",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004917372,
+        "stop" : 1646004920664,
+        "duration" : 3292
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Should get text of all menu items",
+      "uid" : "b3f3d9fd5ae69a83",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646005351516,
+        "stop" : 1646005357925,
+        "duration" : 6409
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 4,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    }, {
+      "name" : "Should get text of all menu items",
+      "uid" : "90626f184425bb2a",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004472273,
+        "stop" : 1646004476165,
+        "duration" : 3892
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-98.0.4758.102" ]
+    } ],
+    "uid" : "b755a79e149728f67460aea38b0710e0"
+  }, {
+    "name" : "1-0",
+    "children" : [ {
+      "name" : "Get List of Recent Posts and Assert Length",
+      "uid" : "ea87655d3c175e53",
+      "parentUid" : "5d884c24784638b93056bad95e3212e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646003878681,
+        "stop" : 1646003883933,
+        "duration" : 5252
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-97.0.1" ]
+    }, {
+      "name" : "Get List of Recent Posts and Assert Length",
+      "uid" : "1d1e063afbf5f421",
+      "parentUid" : "5d884c24784638b93056bad95e3212e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646005338250,
+        "stop" : 1646005344978,
+        "duration" : 6728
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-97.0.1" ]
+    }, {
+      "name" : "Get List of Recent Posts and Assert Length",
+      "uid" : "cd1721c18a0c8a93",
+      "parentUid" : "5d884c24784638b93056bad95e3212e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004458897,
+        "stop" : 1646004464407,
+        "duration" : 5510
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-97.0.1" ]
+    } ],
+    "uid" : "5d884c24784638b93056bad95e3212e7"
+  }, {
+    "name" : "Should Open About page",
+    "uid" : "3b8f022cde7af348",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1646004915312,
+      "stop" : 1646004915312,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Should Open About page",
+    "uid" : "ddd7bacbeac9b9c2",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1646006485288,
+      "stop" : 1646006485288,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 10,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Should Open About page",
+    "uid" : "e8eb356cd56267d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1646003890883,
+      "stop" : 1646003890883,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Should Open About page",
+    "uid" : "22c4c487d9dafaf6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1646005350614,
+      "stop" : 1646005350614,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Should Open About page",
+    "uid" : "f4238d5cb65fbfa1",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1646003890940,
+      "stop" : 1646003890940,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "2-1",
+    "children" : [ {
+      "name" : "Fill out fields, submit and assert",
+      "uid" : "1b1c31feebe13ec1",
+      "parentUid" : "dbc0f6a9c108c92fdbaa24cb744ddaca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646005396245,
+        "stop" : 1646005405922,
+        "duration" : 9677
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Safari-15.3" ]
+    } ],
+    "uid" : "dbc0f6a9c108c92fdbaa24cb744ddaca"
+  }, {
+    "name" : "Should Open About page",
+    "uid" : "c2fc57e72dfffb0a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1646004648674,
+      "stop" : 1646004648674,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "2-3",
+    "children" : [ {
+      "name" : "Should get text of all menu items",
+      "uid" : "fc371f3f5ba695d8",
+      "parentUid" : "a822cd9cc510291ac558906cec2ca3ab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646005386247,
+        "stop" : 1646005392841,
+        "duration" : 6594
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Safari-15.3" ]
+    } ],
+    "uid" : "a822cd9cc510291ac558906cec2ca3ab"
+  } ],
+  "name" : "timeline"
+}

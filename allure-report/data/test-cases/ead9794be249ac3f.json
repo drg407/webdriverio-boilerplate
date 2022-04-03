@@ -1,0 +1,60 @@
+{
+  "uid" : "ead9794be249ac3f",
+  "name" : "Upload on hidden input",
+  "fullName" : "Upload Test.Upload on hidden input",
+  "historyId" : "e99148d3436bf6a05160153d9afca073",
+  "time" : {
+    "start" : 1646004484216,
+    "stop" : 1646004495182,
+    "duration" : 10966
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-4"
+  }, {
+    "name" : "suite",
+    "value" : "Upload Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Upload Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "Upload on hidden input"
+  }, {
+    "name" : "package",
+    "value" : "Upload Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-97.0.1"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ead9794be249ac3f.json",
+  "parameterValues" : [ "firefox-97.0.1" ]
+}

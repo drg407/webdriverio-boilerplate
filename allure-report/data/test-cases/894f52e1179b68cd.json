@@ -1,0 +1,78 @@
+{
+  "uid" : "894f52e1179b68cd",
+  "name" : "Fill out fields, submit and assert",
+  "fullName" : "Contact.Fill out fields, submit and assert",
+  "historyId" : "93e4e6556384f2c5f44b64bd3c52e0d9",
+  "time" : {
+    "start" : 1646005338258,
+    "stop" : 1646005349787,
+    "duration" : 11529
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-1"
+  }, {
+    "name" : "suite",
+    "value" : "Contact"
+  }, {
+    "name" : "testClass",
+    "value" : "Contact"
+  }, {
+    "name" : "testMethod",
+    "value" : "Fill out fields, submit and assert"
+  }, {
+    "name" : "package",
+    "value" : "Contact"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-97.0.1"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a3446eb9d8303c0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004458770,
+        "stop" : 1646004467868,
+        "duration" : 9098
+      }
+    }, {
+      "uid" : "db7d65ac32467f8d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646003878692,
+        "stop" : 1646003886918,
+        "duration" : 8226
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "894f52e1179b68cd.json",
+  "parameterValues" : [ "firefox-97.0.1" ]
+}

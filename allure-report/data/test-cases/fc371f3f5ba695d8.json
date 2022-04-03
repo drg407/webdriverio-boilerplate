@@ -1,0 +1,68 @@
+{
+  "uid" : "fc371f3f5ba695d8",
+  "name" : "Should get text of all menu items",
+  "fullName" : "Nav Menu.Should get text of all menu items",
+  "historyId" : "2d912f42b6cfc9ad866b2bb70e118757",
+  "time" : {
+    "start" : 1646005386247,
+    "stop" : 1646005392841,
+    "duration" : 6594
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Nav Menu"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "thread",
+    "value" : "2-3"
+  }, {
+    "name" : "suite",
+    "value" : "Nav Menu"
+  }, {
+    "name" : "testClass",
+    "value" : "Nav Menu"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should get text of all menu items"
+  }, {
+    "name" : "package",
+    "value" : "Nav Menu"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Safari-15.3"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fc371f3f5ba695d8.json",
+  "parameterValues" : [ "Safari-15.3" ]
+}

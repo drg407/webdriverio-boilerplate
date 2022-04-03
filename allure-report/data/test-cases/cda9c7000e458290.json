@@ -1,0 +1,60 @@
+{
+  "uid" : "cda9c7000e458290",
+  "name" : "Should upload a file",
+  "fullName" : "Upload Test.Should upload a file",
+  "historyId" : "20765602faa661adf1c9df3563455f60",
+  "time" : {
+    "start" : 1646004482439,
+    "stop" : 1646004483913,
+    "duration" : 1474
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-4"
+  }, {
+    "name" : "suite",
+    "value" : "Upload Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Upload Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should upload a file"
+  }, {
+    "name" : "package",
+    "value" : "Upload Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-98.0.4758.102"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cda9c7000e458290.json",
+  "parameterValues" : [ "chrome-98.0.4758.102" ]
+}

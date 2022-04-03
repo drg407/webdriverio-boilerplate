@@ -1,0 +1,78 @@
+{
+  "uid" : "40feaabf6e7614e2",
+  "name" : "Should Assert not containing",
+  "fullName" : "Home.Should Assert not containing",
+  "historyId" : "7a4da787054efe6004afb4a4f0aa0461",
+  "time" : {
+    "start" : 1646005363644,
+    "stop" : 1646005374292,
+    "duration" : 10648
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-2"
+  }, {
+    "name" : "suite",
+    "value" : "Home"
+  }, {
+    "name" : "testClass",
+    "value" : "Home"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should Assert not containing"
+  }, {
+    "name" : "package",
+    "value" : "Home"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-97.0.1"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "65fee5eb30382e2e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004472551,
+        "stop" : 1646004478356,
+        "duration" : 5805
+      }
+    }, {
+      "uid" : "232b97018f5b8a23",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646003894077,
+        "stop" : 1646003899180,
+        "duration" : 5103
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "40feaabf6e7614e2.json",
+  "parameterValues" : [ "firefox-97.0.1" ]
+}

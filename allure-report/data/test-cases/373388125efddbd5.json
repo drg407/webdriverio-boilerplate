@@ -1,0 +1,60 @@
+{
+  "uid" : "373388125efddbd5",
+  "name" : "Should upload a file",
+  "fullName" : "Upload Test.Should upload a file",
+  "historyId" : "5d03f79839abbbecb64c3006d847d751",
+  "time" : {
+    "start" : 1646004483103,
+    "stop" : 1646004484216,
+    "duration" : 1113
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-4"
+  }, {
+    "name" : "suite",
+    "value" : "Upload Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Upload Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should upload a file"
+  }, {
+    "name" : "package",
+    "value" : "Upload Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-97.0.1"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "373388125efddbd5.json",
+  "parameterValues" : [ "firefox-97.0.1" ]
+}

@@ -1,0 +1,118 @@
+{
+  "uid" : "6170de0978c214ec",
+  "name" : "Upload on hidden input",
+  "fullName" : "Upload Test.Upload on hidden input",
+  "historyId" : "f024a19c12edb9691ee135fc2a1b7af0",
+  "time" : {
+    "start" : 1646005363019,
+    "stop" : 1646005380138,
+    "duration" : 17119
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expect $(`#wfu_messageblock_header_1_label_1`) to have text containing\n                \n                Expected: \"uploaded successfully\"\n                Received: undefined",
+  "statusTrace" : "Error: Expect $(`#wfu_messageblock_header_1_label_1`) to have text containing\n                \n                Expected: \"uploaded successfully\"\n                Received: undefined\n                    at Context.<anonymous> (/Users/dav/code/vscode/automation-bro/webdriverio/test/specs/upload.js:32:63)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 4,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expect $(`#wfu_messageblock_header_1_label_1`) to have text containing\n                \n                Expected: \"uploaded successfully\"\n                Received: undefined",
+    "statusTrace" : "Error: Expect $(`#wfu_messageblock_header_1_label_1`) to have text containing\n                \n                Expected: \"uploaded successfully\"\n                Received: undefined\n                    at Context.<anonymous> (/Users/dav/code/vscode/automation-bro/webdriverio/test/specs/upload.js:32:63)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e11cb9d92fe169dc",
+      "name" : "Screenshot",
+      "source" : "e11cb9d92fe169dc.png",
+      "type" : "image/png",
+      "size" : 508470
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-4"
+  }, {
+    "name" : "suite",
+    "value" : "Upload Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Upload Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "Upload on hidden input"
+  }, {
+    "name" : "package",
+    "value" : "Upload Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-98.0.4758.102"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ae99fc973686caa3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004928852,
+        "stop" : 1646004936460,
+        "duration" : 7608
+      }
+    }, {
+      "uid" : "33c5123dbffa910a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004658575,
+        "stop" : 1646004666254,
+        "duration" : 7679
+      }
+    }, {
+      "uid" : "9a188f1e3df75abb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004483914,
+        "stop" : 1646004495524,
+        "duration" : 11610
+      }
+    }, {
+      "uid" : "5abf664e6c07facd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646003908529,
+        "stop" : 1646003920680,
+        "duration" : 12151
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "6170de0978c214ec.json",
+  "parameterValues" : [ "chrome-98.0.4758.102" ]
+}

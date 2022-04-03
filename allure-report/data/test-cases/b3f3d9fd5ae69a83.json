@@ -1,0 +1,100 @@
+{
+  "uid" : "b3f3d9fd5ae69a83",
+  "name" : "Should get text of all menu items",
+  "fullName" : "Nav Menu.Should get text of all menu items",
+  "historyId" : "9708e86023fba60f9e72bea94bd33b06",
+  "time" : {
+    "start" : 1646005351516,
+    "stop" : 1646005357925,
+    "duration" : 6409
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 4,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Nav Menu"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "Nav Menu"
+  }, {
+    "name" : "testClass",
+    "value" : "Nav Menu"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should get text of all menu items"
+  }, {
+    "name" : "package",
+    "value" : "Nav Menu"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-98.0.4758.102"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ {
+      "uid" : "688b13688e220809",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004917372,
+        "stop" : 1646004920664,
+        "duration" : 3292
+      }
+    }, {
+      "uid" : "3bdd85c2f2464687",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004647274,
+        "stop" : 1646004651878,
+        "duration" : 4604
+      }
+    }, {
+      "uid" : "90626f184425bb2a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004472273,
+        "stop" : 1646004476165,
+        "duration" : 3892
+      }
+    }, {
+      "uid" : "ebe86944a0d277b1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646003897263,
+        "stop" : 1646003901019,
+        "duration" : 3756
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b3f3d9fd5ae69a83.json",
+  "parameterValues" : [ "chrome-98.0.4758.102" ]
+}

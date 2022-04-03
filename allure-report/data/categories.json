@@ -1,0 +1,89 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Expect $(`#wfu_messageblock_header_1_label_1`) to have text containing\n                \n                Expected: \"uploaded successfully\"\n                Received: undefined",
+      "children" : [ {
+        "name" : "Upload on hidden input",
+        "uid" : "6170de0978c214ec",
+        "parentUid" : "e017d511e68230ed43d625d9960e6383",
+        "status" : "failed",
+        "time" : {
+          "start" : 1646005363019,
+          "stop" : 1646005380138,
+          "duration" : 17119
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 4,
+        "retriesStatusChange" : true,
+        "parameters" : [ "chrome-98.0.4758.102" ]
+      }, {
+        "name" : "Upload on hidden input",
+        "uid" : "72efb649e211f260",
+        "parentUid" : "e017d511e68230ed43d625d9960e6383",
+        "status" : "failed",
+        "time" : {
+          "start" : 1646005372994,
+          "stop" : 1646005388799,
+          "duration" : 15805
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : true,
+        "parameters" : [ "firefox-97.0.1" ]
+      } ],
+      "uid" : "e017d511e68230ed43d625d9960e6383"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  }, {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "The uploadFile command is not available in Safari",
+      "children" : [ {
+        "name" : "Should upload a file",
+        "uid" : "26b0e71e9443038a",
+        "parentUid" : "aab6191256b7b1cb5580432264c58672",
+        "status" : "broken",
+        "time" : {
+          "start" : 1646005411220,
+          "stop" : 1646005412207,
+          "duration" : 987
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "Safari-15.3" ]
+      }, {
+        "name" : "Upload on hidden input",
+        "uid" : "61a0941b85383812",
+        "parentUid" : "aab6191256b7b1cb5580432264c58672",
+        "status" : "broken",
+        "time" : {
+          "start" : 1646005412207,
+          "stop" : 1646005416580,
+          "duration" : 4373
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "Safari-15.3" ]
+      } ],
+      "uid" : "aab6191256b7b1cb5580432264c58672"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ],
+  "name" : "categories"
+}

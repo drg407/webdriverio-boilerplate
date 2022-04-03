@@ -1,0 +1,60 @@
+{
+  "uid" : "9a470ccf2213640a",
+  "name" : "Should get text of all menu items",
+  "fullName" : "Nav Menu.Should get text of all menu items",
+  "historyId" : "b93057e3a969e59aeaf9cb12306d2bb8",
+  "time" : {
+    "start" : 1646003892358,
+    "stop" : 1646003896189,
+    "duration" : 3831
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-3"
+  }, {
+    "name" : "suite",
+    "value" : "Nav Menu"
+  }, {
+    "name" : "testClass",
+    "value" : "Nav Menu"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should get text of all menu items"
+  }, {
+    "name" : "package",
+    "value" : "Nav Menu"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-97.0.1"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9a470ccf2213640a.json",
+  "parameterValues" : [ "firefox-97.0.1" ]
+}

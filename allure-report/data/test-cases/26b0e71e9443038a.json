@@ -1,0 +1,86 @@
+{
+  "uid" : "26b0e71e9443038a",
+  "name" : "Should upload a file",
+  "fullName" : "Upload Test.Should upload a file",
+  "historyId" : "fe01626faadcf564ca3a2ac66a498bbb",
+  "time" : {
+    "start" : 1646005411220,
+    "stop" : 1646005412207,
+    "duration" : 987
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "The uploadFile command is not available in Safari",
+  "statusTrace" : "Error: The uploadFile command is not available in Safari\n                    at Browser.uploadFile (/Users/dav/code/vscode/automation-bro/webdriverio/node_modules/webdriverio/build/commands/browser/uploadFile.js:50:15)\n                    at Browser.wrapCommandFn (/Users/dav/code/vscode/automation-bro/webdriverio/node_modules/@wdio/utils/build/shim.js:137:38)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at Context.<anonymous> (/Users/dav/code/vscode/automation-bro/webdriverio/test/specs/upload.js:10:32)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "The uploadFile command is not available in Safari",
+    "statusTrace" : "Error: The uploadFile command is not available in Safari\n                    at Browser.uploadFile (/Users/dav/code/vscode/automation-bro/webdriverio/node_modules/webdriverio/build/commands/browser/uploadFile.js:50:15)\n                    at Browser.wrapCommandFn (/Users/dav/code/vscode/automation-bro/webdriverio/node_modules/@wdio/utils/build/shim.js:137:38)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at Context.<anonymous> (/Users/dav/code/vscode/automation-bro/webdriverio/test/specs/upload.js:10:32)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "110d19741b594514",
+      "name" : "Screenshot",
+      "source" : "110d19741b594514.png",
+      "type" : "image/png",
+      "size" : 58184
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "2-4"
+  }, {
+    "name" : "suite",
+    "value" : "Upload Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Upload Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should upload a file"
+  }, {
+    "name" : "package",
+    "value" : "Upload Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Safari-15.3"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "26b0e71e9443038a.json",
+  "parameterValues" : [ "Safari-15.3" ]
+}

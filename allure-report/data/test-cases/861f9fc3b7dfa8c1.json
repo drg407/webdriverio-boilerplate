@@ -1,0 +1,60 @@
+{
+  "uid" : "861f9fc3b7dfa8c1",
+  "name" : "Fill out fields, submit and assert",
+  "fullName" : "Contact.Fill out fields, submit and assert",
+  "historyId" : "743bbbf0833086e6e602356e3ffa6608",
+  "time" : {
+    "start" : 1646004902706,
+    "stop" : 1646004910329,
+    "duration" : 7623
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Contact"
+  }, {
+    "name" : "testClass",
+    "value" : "Contact"
+  }, {
+    "name" : "testMethod",
+    "value" : "Fill out fields, submit and assert"
+  }, {
+    "name" : "package",
+    "value" : "Contact"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-98.0.4758.102"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "861f9fc3b7dfa8c1.json",
+  "parameterValues" : [ "chrome-98.0.4758.102" ]
+}

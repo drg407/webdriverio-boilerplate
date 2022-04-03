@@ -1,0 +1,78 @@
+{
+  "uid" : "1d1e063afbf5f421",
+  "name" : "Get List of Recent Posts and Assert Length",
+  "fullName" : "Blog.Get List of Recent Posts and Assert Length",
+  "historyId" : "7af0d4e6b57b4672f38b0eb19d8697c0",
+  "time" : {
+    "start" : 1646005338250,
+    "stop" : 1646005344978,
+    "duration" : 6728
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-0"
+  }, {
+    "name" : "suite",
+    "value" : "Blog"
+  }, {
+    "name" : "testClass",
+    "value" : "Blog"
+  }, {
+    "name" : "testMethod",
+    "value" : "Get List of Recent Posts and Assert Length"
+  }, {
+    "name" : "package",
+    "value" : "Blog"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-97.0.1"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "cd1721c18a0c8a93",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004458897,
+        "stop" : 1646004464407,
+        "duration" : 5510
+      }
+    }, {
+      "uid" : "ea87655d3c175e53",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646003878681,
+        "stop" : 1646003883933,
+        "duration" : 5252
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1d1e063afbf5f421.json",
+  "parameterValues" : [ "firefox-97.0.1" ]
+}

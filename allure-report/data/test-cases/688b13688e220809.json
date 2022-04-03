@@ -1,0 +1,66 @@
+{
+  "uid" : "688b13688e220809",
+  "name" : "Should get text of all menu items",
+  "fullName" : "Nav Menu.Should get text of all menu items",
+  "historyId" : "9708e86023fba60f9e72bea94bd33b06",
+  "time" : {
+    "start" : 1646004917372,
+    "stop" : 1646004920664,
+    "duration" : 3292
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Nav Menu"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "Nav Menu"
+  }, {
+    "name" : "testClass",
+    "value" : "Nav Menu"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should get text of all menu items"
+  }, {
+    "name" : "package",
+    "value" : "Nav Menu"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-98.0.4758.102"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "688b13688e220809.json",
+  "parameterValues" : [ "chrome-98.0.4758.102" ]
+}

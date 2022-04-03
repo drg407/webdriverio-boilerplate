@@ -1,0 +1,94 @@
+{
+  "uid" : "c18707911c87cd15",
+  "name" : "Find element and assert text",
+  "fullName" : "Home.Find element and assert text",
+  "historyId" : "e877529700ffee2c44348fd10b40e524",
+  "time" : {
+    "start" : 1646005381344,
+    "stop" : 1646005391450,
+    "duration" : 10106
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 4,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-2"
+  }, {
+    "name" : "suite",
+    "value" : "Home"
+  }, {
+    "name" : "testClass",
+    "value" : "Home"
+  }, {
+    "name" : "testMethod",
+    "value" : "Find element and assert text"
+  }, {
+    "name" : "package",
+    "value" : "Home"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-98.0.4758.102"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "63e77c2366d4b1b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004927350,
+        "stop" : 1646004932190,
+        "duration" : 4840
+      }
+    }, {
+      "uid" : "1907b92686e5ff2b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004662666,
+        "stop" : 1646004666931,
+        "duration" : 4265
+      }
+    }, {
+      "uid" : "3970d3d5b70c8650",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646004486122,
+        "stop" : 1646004493249,
+        "duration" : 7127
+      }
+    }, {
+      "uid" : "579cb2ebaa333053",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646003911445,
+        "stop" : 1646003919395,
+        "duration" : 7950
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c18707911c87cd15.json",
+  "parameterValues" : [ "chrome-98.0.4758.102" ]
+}

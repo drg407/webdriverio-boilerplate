@@ -1,0 +1,26 @@
+{
+  "total" : 35,
+  "items" : [ {
+    "uid" : "92ee658b49908a781109aabec731ab38",
+    "name" : "Click by XPATH",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    }
+  }, {
+    "uid" : "b0852a540228b0a3027a7bfc3115363e",
+    "name" : "Nav Menu",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    }
+  } ]
+}

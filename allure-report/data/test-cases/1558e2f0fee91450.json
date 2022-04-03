@@ -1,0 +1,62 @@
+{
+  "uid" : "1558e2f0fee91450",
+  "name" : "Upload on hidden input",
+  "fullName" : "Upload Test.Upload on hidden input",
+  "historyId" : "e99148d3436bf6a05160153d9afca073",
+  "time" : {
+    "start" : 1646003903654,
+    "stop" : 1646003917649,
+    "duration" : 13995
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expect $(`#wfu_messageblock_header_1_label_1`) to have text containing\n                \n                Expected: \"uploaded successfully\"\n                Received: undefined",
+  "statusTrace" : "Error: Expect $(`#wfu_messageblock_header_1_label_1`) to have text containing\n                \n                Expected: \"uploaded successfully\"\n                Received: undefined\n                    at Context.<anonymous> (/Users/dav/code/vscode/automation-bro/webdriverio/test/specs/upload.js:32:63)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-4"
+  }, {
+    "name" : "suite",
+    "value" : "Upload Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Upload Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "Upload on hidden input"
+  }, {
+    "name" : "package",
+    "value" : "Upload Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-97.0.1"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1558e2f0fee91450.json",
+  "parameterValues" : [ "firefox-97.0.1" ]
+}

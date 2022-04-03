@@ -1,0 +1,411 @@
+[ {
+  "uid" : "fc371f3f5ba695d8",
+  "name" : "Should get text of all menu items",
+  "time" : {
+    "start" : 1646005386247,
+    "stop" : 1646005392841,
+    "duration" : 6594
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "ed83cdb60a408ab4",
+  "name" : "Find element and assert text",
+  "time" : {
+    "start" : 1646005389366,
+    "stop" : 1646005395523,
+    "duration" : 6157
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "20b348810e26b949",
+  "name" : "Should Assert not containing",
+  "time" : {
+    "start" : 1646006306858,
+    "stop" : 1646006310146,
+    "duration" : 3288
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ddd7bacbeac9b9c2",
+  "name" : "Should Open About page",
+  "time" : {
+    "start" : 1646006485288,
+    "stop" : 1646006485288,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "d0c834c873dbaffd",
+  "name" : "Should upload a file",
+  "time" : {
+    "start" : 1646005361711,
+    "stop" : 1646005363019,
+    "duration" : 1308
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "835a01a20d54a088",
+  "name" : "Should Click Get Started",
+  "time" : {
+    "start" : 1646006485288,
+    "stop" : 1646006490199,
+    "duration" : 4911
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a08873f5094e5074",
+  "name" : "Should Click Get Started",
+  "time" : {
+    "start" : 1646005350493,
+    "stop" : 1646005355781,
+    "duration" : 5288
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a1bde3144ab7e362",
+  "name" : "Find element and assert text",
+  "time" : {
+    "start" : 1646006316393,
+    "stop" : 1646006321979,
+    "duration" : 5586
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c18707911c87cd15",
+  "name" : "Find element and assert text",
+  "time" : {
+    "start" : 1646005381344,
+    "stop" : 1646005391450,
+    "duration" : 10106
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dcb7c6bfcef450b3",
+  "name" : "Should Assert not containing",
+  "time" : {
+    "start" : 1646005355782,
+    "stop" : 1646005364297,
+    "duration" : 8515
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "70e6b9191ca6b998",
+  "name" : "Should Assert not containing",
+  "time" : {
+    "start" : 1646006490200,
+    "stop" : 1646006497516,
+    "duration" : 7316
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e15314828d5926ec",
+  "name" : "Should Assert not containing",
+  "time" : {
+    "start" : 1646005356274,
+    "stop" : 1646005360718,
+    "duration" : 4444
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "61a0941b85383812",
+  "name" : "Upload on hidden input",
+  "time" : {
+    "start" : 1646005412207,
+    "stop" : 1646005416580,
+    "duration" : 4373
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e480289a08bdf204",
+  "name" : "Open URL and assert title",
+  "time" : {
+    "start" : 1646005346548,
+    "stop" : 1646005350493,
+    "duration" : 3945
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "16ee06cb990532a9",
+  "name" : "Open URL and assert title",
+  "time" : {
+    "start" : 1646005346304,
+    "stop" : 1646005350613,
+    "duration" : 4309
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "72efb649e211f260",
+  "name" : "Upload on hidden input",
+  "time" : {
+    "start" : 1646005372994,
+    "stop" : 1646005388799,
+    "duration" : 15805
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "40feaabf6e7614e2",
+  "name" : "Should Assert not containing",
+  "time" : {
+    "start" : 1646005363644,
+    "stop" : 1646005374292,
+    "duration" : 10648
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "27307215600c1297",
+  "name" : "Should click by XPATH",
+  "time" : {
+    "start" : 1646005364297,
+    "stop" : 1646005381344,
+    "duration" : 17047
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "86a7cece225d33c",
+  "name" : "Should get text of all menu items",
+  "time" : {
+    "start" : 1646005356816,
+    "stop" : 1646005364336,
+    "duration" : 7520
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "26b0e71e9443038a",
+  "name" : "Should upload a file",
+  "time" : {
+    "start" : 1646005411220,
+    "stop" : 1646005412207,
+    "duration" : 987
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1ea367b8504f83e4",
+  "name" : "Should click by XPATH",
+  "time" : {
+    "start" : 1646005374293,
+    "stop" : 1646005389365,
+    "duration" : 15072
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2a8e6ddb60c432e4",
+  "name" : "Fill out fields, submit and assert",
+  "time" : {
+    "start" : 1646005337482,
+    "stop" : 1646005346973,
+    "duration" : 9491
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a5ae4b4cbaddf544",
+  "name" : "Should Click Get Started",
+  "time" : {
+    "start" : 1646005350614,
+    "stop" : 1646005356274,
+    "duration" : 5660
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "894f52e1179b68cd",
+  "name" : "Fill out fields, submit and assert",
+  "time" : {
+    "start" : 1646005338258,
+    "stop" : 1646005349787,
+    "duration" : 11529
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "85022bc276e3f501",
+  "name" : "Open URL and assert title",
+  "time" : {
+    "start" : 1646006472307,
+    "stop" : 1646006485287,
+    "duration" : 12980
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "541d4b5f9c0941d5",
+  "name" : "Should upload a file",
+  "time" : {
+    "start" : 1646005371857,
+    "stop" : 1646005372994,
+    "duration" : 1137
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f2398c9eeee77029",
+  "name" : "Should Click Get Started",
+  "time" : {
+    "start" : 1646006304488,
+    "stop" : 1646006306857,
+    "duration" : 2369
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1d1e063afbf5f421",
+  "name" : "Get List of Recent Posts and Assert Length",
+  "time" : {
+    "start" : 1646005338250,
+    "stop" : 1646005344978,
+    "duration" : 6728
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "45f9f0c3f52edafe",
+  "name" : "Should click by XPATH",
+  "time" : {
+    "start" : 1646005360718,
+    "stop" : 1646005372405,
+    "duration" : 11687
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3135458ae3534d02",
+  "name" : "Get List of Recent Posts and Assert Length",
+  "time" : {
+    "start" : 1646005337005,
+    "stop" : 1646005342614,
+    "duration" : 5609
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ad2a5a79afc894ab",
+  "name" : "Open URL and assert title",
+  "time" : {
+    "start" : 1646005352141,
+    "stop" : 1646005358083,
+    "duration" : 5942
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "1b1c31feebe13ec1",
+  "name" : "Fill out fields, submit and assert",
+  "time" : {
+    "start" : 1646005396245,
+    "stop" : 1646005405922,
+    "duration" : 9677
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3c8fc927c5d5ab13",
+  "name" : "Find element and assert text",
+  "time" : {
+    "start" : 1646005372405,
+    "stop" : 1646005384284,
+    "duration" : 11879
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b3aa3db2230cc48c",
+  "name" : "Should click by XPATH",
+  "time" : {
+    "start" : 1646006497518,
+    "stop" : 1646006507244,
+    "duration" : 9726
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aa8cb045e5e37bc7",
+  "name" : "Should click by XPATH",
+  "time" : {
+    "start" : 1646006310146,
+    "stop" : 1646006316393,
+    "duration" : 6247
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cee7a58ee7142700",
+  "name" : "Find element and assert text",
+  "time" : {
+    "start" : 1646006507248,
+    "stop" : 1646006512748,
+    "duration" : 5500
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f8d80044d826cb9",
+  "name" : "Get List of Recent Posts and Assert Length",
+  "time" : {
+    "start" : 1646005336737,
+    "stop" : 1646005342492,
+    "duration" : 5755
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "33a9f808c761984c",
+  "name" : "Open URL and assert title",
+  "time" : {
+    "start" : 1646006300402,
+    "stop" : 1646006304487,
+    "duration" : 4085
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "d22093dd3e20c3ff",
+  "name" : "Should Click Get Started",
+  "time" : {
+    "start" : 1646005358083,
+    "stop" : 1646005363644,
+    "duration" : 5561
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b3f3d9fd5ae69a83",
+  "name" : "Should get text of all menu items",
+  "time" : {
+    "start" : 1646005351516,
+    "stop" : 1646005357925,
+    "duration" : 6409
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "6170de0978c214ec",
+  "name" : "Upload on hidden input",
+  "time" : {
+    "start" : 1646005363019,
+    "stop" : 1646005380138,
+    "duration" : 17119
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]
